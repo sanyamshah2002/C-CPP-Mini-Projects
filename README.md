@@ -15,12 +15,10 @@ A collection of small C and C++ projects I created while practicing programming 
 
 - C
 - C++
-- Regular Expressions
-- File Handling
 
 ## What I Practiced
 
-Through these projects, I practiced loops, functions, conditional statements, switch-case, arrays, strings, file handling, random numbers, and basic problem-solving.
+Through these projects, I practiced loops, functions, conditional statements, switch-case, strings, file handling, random numbers, and basic problem-solving.
 
 ## Author
 
