@@ -7,6 +7,6 @@ def is_valid_email(email):
 email = input("Enter email: ")
 
 if is_valid_email(email):
-    print("Valid Email ✅✅")
+    print("Valid Email ")
 else:
-    print("Invalid Email ❌")
+    print("Invalid Email ")
